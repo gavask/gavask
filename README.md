@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gavask
-- 👀 I’m interested in Magento 2
+- 👀 I’m interested in Bigcommerce development, AI vibe coding, creating stuff for other people
 - 🌱 I’m currently learning that ecommerce web sites are stressful
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ... gavin.askew@cartridgeworld.co.uk
